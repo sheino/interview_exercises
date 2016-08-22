@@ -1,0 +1,1 @@
+Populates world with random events and given users x, y coordinates finds the events that are closest\cheapests to the user.

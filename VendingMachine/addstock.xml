@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<wending>
+<items>
+	<item name="Coke" price="1.59" stock = "10"/>
+     <item name="Fanta" price="2.00" stock = "15"/>
+</items>
+<coins>
+	<coin value="0.01" stock = "10"/>
+	<coin value="0.02" stock = "20"/>
+	<coin value="0.05" stock = "50"/>
+	<coin value="0.10" stock = "100"/>
+	<coin value="0.20" stock = "200"/>
+	<coin value="0.50" stock = "500"/>
+	<coin value="1.00" stock = "1"/>
+	<coin value="2.00" stock = "20"/>
+</coins>
+</wending>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<wendingMachineStock>
+    <items>
+        <item name="Coke" price="2.59" stock="28"/>
+        <item name="Sprite" price="2.0" stock="31"/>
+    </items>
+    <coins>
+        <coin stock="38" value="0.01"/>
+        <coin stock="60" value="0.02"/>
+        <coin stock="150" value="0.05"/>
+        <coin stock="300" value="0.10"/>
+        <coin stock="596" value="0.20"/>
+        <coin stock="1500" value="0.50"/>
+        <coin stock="100" value="1.00"/>
+        <coin stock="94" value="2.00"/>
+    </coins>
+</wendingMachineStock>
